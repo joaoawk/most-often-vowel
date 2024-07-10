@@ -5,7 +5,7 @@ This software calculates the absolute frequency of every vowel in a word
 ## Where did the idea come up from?
 
 This software was designed as a college assignment
-In which we should print vowel and its absolute frequency
+in which we should print vowel and its absolute frequency
 A-Z ordered.
 
 ## How it works?
